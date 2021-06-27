@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293493962134",
+    "project_id": "kosaa-fa17e",
+    "storage_bucket": "kosaa-fa17e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293493962134:android:8d0acf69aa5e5c640a99b7",
+        "android_client_info": {
+          "package_name": "com.example.kosaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293493962134-565ksd638uhuok42eiu3fk2rcobqr30q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJQBG2qVBfTas1JyVn12t-lBQvrQVk_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293493962134-565ksd638uhuok42eiu3fk2rcobqr30q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
